@@ -1,0 +1,38 @@
+*{
+        box-sizing: border-box;
+}
+
+
+.navbar-brand , .nav-item > a {
+        color: #FFFFFF !important;
+}
+
+.btn-color{
+        background-color: #6B757D;
+        color: #FFFFFF;
+}
+
+.middle-box{
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+        background-color:#F8F9FA;
+}
+.my_dataviz{
+        position: relative;
+        margin: 0 auto;
+}
+
+ span{
+        margin-right: 30px;
+        font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
